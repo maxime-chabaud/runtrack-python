@@ -1,0 +1,6 @@
+def ajtfruit():
+    fruits = ["pomme","cerise","orange","melon"]
+    fruits.insert(2,"mangue")
+    return fruits
+ajtfruit()
+print(ajtfruit())
